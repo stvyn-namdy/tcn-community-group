@@ -25,6 +25,7 @@ section {
     letter-spacing: 3px;
     margin-right: -3px;
     margin-bottom: 3rem;
+    margin-top: 3rem;
     text-align: center;
     color: rgb(19, 19, 19);
     position: relative;
@@ -89,6 +90,7 @@ section {
     color: rgb(0, 0, 0);
     margin: .5rem 0;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .job-title {
@@ -103,6 +105,14 @@ section {
     color: #000;
     margin: 1.5rem;
     text-align: center;
+}
+
+.summary {
+    font-size: 1.8rem;
+    color: black;
+    margin: 1.5rem;
+    text-align: center;
+    line-height: 2.5rem;
 }
 
 .card .btn {
